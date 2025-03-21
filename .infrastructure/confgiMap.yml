@@ -5,4 +5,3 @@ metadata:
   namespace: todoapp
 data:
   PYTHONUNBUFFERED: "1"
-  DB_CONNECTION: "bXlzcWwrbXlzcWxjb25uZWN0b3I6Ly9kZWZhdWx0OjEyMzRAbXlzcWwtMC5teXNxbC1oZWFkbGVzcy5teXNxbC1ucy5zdmMuY2x1c3Rlci5sb2NhbA=="
